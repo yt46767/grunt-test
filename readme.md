@@ -1,2 +1,2 @@
-node.js下
-  grunt.js——压缩工具
+grunt.js——用nodejs编写的压缩工具。  
+用grunt.js尝试压缩一个项目。
